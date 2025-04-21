@@ -28,4 +28,3 @@
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SardorCoder&bg_color=0d1117&color=ffffff&line=5BCDEC&point=ffffff&area=true&hide_border=true)
