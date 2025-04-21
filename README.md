@@ -12,7 +12,13 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 - You can reach me through:
 
 **My phone number:** +998 88 703 13 86
-<br>
+
+## <img src="https://prime-sender.com/gifs/contact-us.gif" alt="waving hand gif" aria-hidden="true" height="30"/> Contact Me
+<a href="https://instagram.com/qurbonoff.11" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
+<a href="https://t.me/Qurbonoff_11" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbonoff11&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </a>
+<a href="https://qurbonoff.netlify.app" title="Website"><img alt="Website" src="https://img.shields.io/badge/Web_Site-yellow?style=for-the-badge&logo=circuitverse&logoColor=white" height="30" align="center"/> </a>
+
 
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
