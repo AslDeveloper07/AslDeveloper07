@@ -2,14 +2,40 @@
 
 ## ⚡ Tech Stack with Animations
 
+## ⚡ My Tech Stack
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="animation: float 2s ease-in-out infinite;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60">
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="nodejs" width="60" height="60" />
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="python" width="60" height="60" />
+
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="html"/>
+
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="css"/>
+
+  <!-- Tailwind -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="tailwind"/>
+
+  <!-- Bootstrap -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" alt="bootstrap"/>
+
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="javascript"/>
+
+  <!-- Vue.js -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" alt="vue"/>
+
+  <!-- PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" alt="php"/>
+
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="python"/>
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="git"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="github"/>
+
 </p>
 
 
