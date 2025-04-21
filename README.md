@@ -1,6 +1,6 @@
 # Hi... I'm Asilbek <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-I am **Suvonov Asilbek** a citizen of the Republic of Uzbekistan. I am currently working as a web developerㅤㅤㅤㅤ(UI/UX Designer). I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am **Suvonov Asilbek** a citizen of the Republic of Uzbekistan. I am currently working as a web developer. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 ## 👨‍💻 About Me  
 I'm a passionate developer who enjoys creating interactive and user-friendly web interfaces. My interests include:
