@@ -1,49 +1,59 @@
-## 🛠️ Languages and Tools:
+# Hi... I'm Temurbek <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
+A **Front-end Developer** and an advocate for building **responsive**, **accessible**, and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 
-<p align="left">
+## 👨‍💻 About Me  
+I'm a passionate developer who enjoys creating interactive and user-friendly web interfaces. My interests include:
+- 🌟 Exploring **AI-driven technologies**  
+- 🎮 Building **game-based applications**  
+- 🚀 Diving into **blockchain technology**  
 
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="html"/>
+- Open to project collaborations
+- You can reach me through: 
+  <a href="mailto:dev.temur@gmail.com" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
+  </a> 
+  <a href="https://whatsapp.com" title="Whatsapp">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/>
+  </a> 
+  <a href="https://www.linkedin.com">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
+  </a>
 
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="css"/>
-  
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="javascript"/>
+- **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
-  <!-- Tailwind -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="tailwind"/>
-  
+[- Currently working on <a href="https://book-commerce-murex.vercel.app/">Book Commerce</a>]
 
-  <!-- Vue.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" alt="vue"/>
-  
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="python"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="git"/>
+1. [Christmas Parallax Site](https://christmas-temur.netlify.app/)
+2. [Site NFT](https://silver-florentine-05dd48.netlify.app/)
+3. [Site Watches](https://tiny-sorbet-49949a.netlify.app/)
+4. [Games Site](https://singular-peony-aa25cd.netlify.app/)
+5. [Books Filter Site](https://temur-coder-books.netlify.app/)
+6. [New Year Site](https://christmas-site-pro.netlify.app/)
+6. [Books Site Colorib](https://jazzy-phoenix-ab5621.netlify.app/)
+7. [Kun Uz Clone](https://kun-uz2.netlify.app/)
+7. [Alert Register RegEx](https://startling-profiterole-237e3c.netlify.app/)
+7. [Rosary counter](https://rosary-counter.netlify.app//)
 
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="github"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
 
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,tailwind,java,ts,go,react,git,github,vscode,dart,c#,c++styledcomponents,stackoverflow&perline=13)](#)
+## 📊 Most Used Languages  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temurprogram77&layout=compact&theme=blue-green&title_color=00b3ff)](https://github.com/anuraghazra/github-readme-stats)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+[![Temur's github stats](https://bad-apple-github-readme.vercel.app/api?username=Temurprogram77&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Temur's current streak](https://streak-stats.demolab.com/?user=Temurprogram77&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<a align="center" href="#-my-github-stats--">
+  <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-
----
-
-## 📊 GitHub Stats
-
-![SardorCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AslDeveloper07&show_icons=true&theme=radical&count_private=true&hide_rank=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslDeveloper07&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AslDeveloper07&theme=radical&border_radius=5)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AslDeveloper07&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-## 📈 Contribution Graph
-
