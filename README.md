@@ -8,22 +8,17 @@
 
   <!-- CSS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="css"/>
-
-  <!-- Tailwind -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="tailwind"/>
-
-  <!-- Bootstrap -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" color="green" width="50" alt="bootstrap"/>
-
+  
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="javascript"/>
 
+  <!-- Tailwind -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="tailwind"/>
+  
+
   <!-- Vue.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" alt="vue"/>
-
-  <!-- PHP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" alt="php"/>
-
+  
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="python"/>
 
