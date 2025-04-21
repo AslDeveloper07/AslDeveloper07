@@ -1,7 +1,5 @@
 ## 🛠️ Languages and Tools:
 
-## ⚡ Tech Stack with Animations
-
 
 <p align="left">
 
