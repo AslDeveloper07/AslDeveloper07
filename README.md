@@ -11,4 +11,5 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 - Open to project collaborations
 - You can reach me through: 
   
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,tailwind,java,ts,go,react,git,github,vscode,dart,c#,c++styledcomponents,stackoverflow&perline=13)](#)
+## 📊 Most Used Languages
