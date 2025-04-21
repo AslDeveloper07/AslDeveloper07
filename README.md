@@ -50,8 +50,6 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 [![Temur's current streak](https://streak-stats.demolab.com/?user=Temurprogram77&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<a align="center" href="#-my-github-stats--">
-  <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</a>
+
 
 
