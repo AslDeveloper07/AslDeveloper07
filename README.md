@@ -17,13 +17,13 @@
 
 ## 📊 GitHub Stats
 
-![SardorCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorCoder&show_icons=true&#00f7f7=radical&count_private=true&hide_rank=false)
+![SardorCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AslDeveloper07&show_icons=true&theme=radical&count_private=true&hide_rank=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorCoder&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslDeveloper07&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SardorCoder&theme=radical&border_radius=5)
+![GitHub Streak](https://streak-stats.demolab.com?user=AslDeveloper07&theme=radical&border_radius=5)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SardorCoder&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AslDeveloper07&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
