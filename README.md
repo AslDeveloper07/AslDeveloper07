@@ -12,19 +12,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   
 </p>
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-
-<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-
-<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
 
 ---
 
 ## 📊 GitHub Stats
 
-![SardorCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorCoder&show_icons=true&theme=radical&count_private=true&hide_rank=false)
+![SardorCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorCoder&show_icons=true&#00f7f7=radical&count_private=true&hide_rank=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SardorCoder&layout=compact&theme=radical)
 
