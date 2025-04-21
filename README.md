@@ -2,7 +2,6 @@
 
 ## ⚡ Tech Stack with Animations
 
-## ⚡ My Tech Stack
 
 <p align="left">
 
