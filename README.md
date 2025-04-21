@@ -17,7 +17,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 <a href="https://instagram.com/asilc1k_ake" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
 <a href="https://t.me/Knyaz_blvck" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AslDeveloper07&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </a>
-<a href="aslwexking777@gmail.com" title="Website"><img alt="Website" src="https://img.shields.io/badge/Web_Site-yellow?style=for-the-badge&logo=circuitverse&logoColor=white" height="30" align="center"/> </a>
+
 
 
 
