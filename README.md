@@ -11,7 +11,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 - Open to project collaborations
 - You can reach me through:
 
-**My phone number:** +998 887031386
+**My phone number:** +998 88 703 13 86
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,sass,bootstrap,vue,angular,ts,figma,bash,codepen,react,git,github,vscode,npm,ps,ai,pycharm,sublime&perline=15)](#)
 
@@ -34,6 +34,6 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 <!-- [![Qurbonoff's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qurbonoff11&bg_color=323232&title_color=00ffff)](https://github.com/Qurbonoff11) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qurbonoff11&bg_color=323232&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
+[![Asilbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qurbonoff11&bg_color=323232&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
 
 
