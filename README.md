@@ -12,3 +12,14 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 - You can reach me through:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,sass,bootstrap,vue,angular,ts,figma,react,git,github,vscode,npm&perline=10)](#)
+
+
+## 📊 GitHub Stats
+
+![SardorCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AslDeveloper07&show_icons=true&theme=radical&count_private=true&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslDeveloper07&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AslDeveloper07&theme=radical&border_radius=5)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AslDeveloper07&label=Profile%20views&color=0e75b6&style=flat)
