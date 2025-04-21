@@ -13,6 +13,9 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 **My phone number:** +998 88 703 13 86
 
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,sass,bootstrap,vue,angular,ts,figma,bash,codepen,react,git,github,vscode,npm,ps,ai,pycharm,sublime&perline=15)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
