@@ -37,6 +37,3 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qurbonoff11&bg_color=323232&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
 
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient"/>
-</p>
