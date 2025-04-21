@@ -11,4 +11,4 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 - Open to project collaborations
 - You can reach me through:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,vue,angular,ts,figma,react,git,github,vscode,node.js,npm&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,vue,angular,ts,figma,react,git,github,vscode,npm&perline=10)](#)
