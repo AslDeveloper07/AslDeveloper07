@@ -12,7 +12,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 - You can reach me through:
 
 **My phone number:** +998 88 703 13 86
-
+<br>
 
 
 
