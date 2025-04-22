@@ -30,7 +30,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 ![GitHub followers](https://img.shields.io/github/followers/AslDeveloper07?style=for-the-badge&logo=github&logoColor=%2300ffff&label=GitHub%20follower&labelColor=%23555555&color=%2300ffff)
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=qurbonoff11&hide_border=false&border_radius=15&background=323232&ring=00ffff&stroke=fff&border=00ffff&fire=fff&currStreakNum=fff&sideNums=00ffff&currStreakLabel=fff&sideLabels=fff&dates=00ffaa)](#) | ![Qurbonoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=qurbonoff11&show_icons=true&icon_color=00ffff&bg_color=323232&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=AslDeveloper07&hide_border=false&border_radius=15&background=323232&ring=00ffff&stroke=fff&border=00ffff&fire=fff&currStreakNum=fff&sideNums=00ffff&currStreakLabel=fff&sideLabels=fff&dates=00ffaa)](#) | ![AslDeveloper07's GitHub stats](https://github-readme-stats.vercel.app/api?username=qurbonoff11&show_icons=true&icon_color=00ffff&bg_color=323232&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15) |
 | ------------- | ------------- |
 
 
@@ -38,7 +38,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qurbonoff11)](#) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qurbonoff11&size_weight=0.5&count_weight=0.5&icon_color=00ffff&bg_color=323232&text_color=fff&title_color=00ffff&border_color=00ffff&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslDeveloper07&size_weight=0.5&count_weight=0.5&icon_color=00ffff&bg_color=323232&text_color=fff&title_color=00ffff&border_color=00ffff&border_radius=15)
 ### GitHub Profile Insights
 
 <!-- [![Qurbonoff's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qurbonoff11&bg_color=323232&title_color=00ffff)](https://github.com/Qurbonoff11) -->
