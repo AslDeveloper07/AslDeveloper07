@@ -22,7 +22,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,bootstrap,ts,figma,bash,codepen,react,git,github,vscode,npm,ps,ai,pycharm,pug,vite,webpack,cursor,chatgpt,sublime,&perline=15)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,bootstrap,ts,figma,bash,codepen,react,git,github,vscode,npm,ps,ai,pycharm,pug,vite,webpack,gitlab,sublime,&perline=15)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 
