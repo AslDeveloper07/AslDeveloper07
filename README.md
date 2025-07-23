@@ -1,126 +1,46 @@
+# Hi... I'm Asilbek <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<!-- 🚀 FUTURE READY - GITHUB PROFILE README for AslDeveloper07 -->
+I am **Suvonov Asilbek** a citizen of the Republic of Uzbekistan. I am currently working as a web developer. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FF7ED&center=true&vCenter=true&width=700&lines=👋+Hi,+I+am+AslDeveloper07;🚀+Next+Gen+Frontend+Engineer;🎯+Coding+the+Future+since+2023" alt="Typing SVG" />
-</h1>
+## 👨‍💻 About Me  
+I'm a passionate developer who enjoys creating interactive and user-friendly web interfaces. My interests include:
+- 🌟 Exploring **AI-driven technologies**  
+- 🎮 Building **game-based applications**  
+- 🚀 Diving into **blockchain technology**  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="320" />
-</p>
+- Open to project collaborations
+- You can reach me through:
 
----
+**My phone number:** +998 88 703 13 86
 
-## 🌌 ABOUT ME
+## <img src="https://prime-sender.com/gifs/contact-us.gif" alt="waving hand gif" aria-hidden="true" height="30"/> Contact Me
+<a href="https://instagram.com/asilc1k_ake" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
+<a href="https://t.me/Knyaz_blvck" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
 
-```yaml
-Username: AslDeveloper07
-Role: Futuristic Frontend Developer
-Location: Uzbekistan, Earth-5000
-Skills: HTML • CSS • JS • React • Tailwind • GSAP • SCSS • Git
-Learning: Framer Motion, Next.js, AI-integrated UI Systems
-```
----
 
-## 🧠 TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github,vite,figma" />
-</p>
 
----
 
-## 🔮 TECHNOLOGY MASTERY
+## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,bootstrap,ts,figma,bash,codepen,react,git,github,vscode,npm,ps,ai,pycharm,pug,vite,webpack,gitlab,sublime,notion,linux,&perline=15)](#)
 
-```mermaid
-pie showData
-  title Dasturlash tillari bo‘yicha bilim darajam
-  "HTML" : 30
-  "CSS / SCSS / Tailwind" : 25
-  "JavaScript (ES6+)" : 25
-  "React.js" : 15
-  "Git/GitHub" : 5
-```
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 
----
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Qurbonoff11&color=ff0000) -->
 
-## 🧠 MY MISSION
+![GitHub followers](https://img.shields.io/github/followers/AslDeveloper07?style=for-the-badge&logo=github&logoColor=%2300ffff&label=GitHub%20follower&labelColor=%23555555&color=%2300ffff)
 
-> “I am not coding for today, I’m building interfaces for the future.”  
-> “Har bir komponent — bu kelajak foydalanuvchisiga sovg‘a!”
+| [![GitHub Streak](https://streak-stats.demolab.com?user=AslDeveloper07&hide_border=false&border_radius=15&background=323232&ring=00ffff&stroke=fff&border=00ffff&fire=fff&currStreakNum=fff&sideNums=00ffff&currStreakLabel=fff&sideLabels=fff&dates=00ffaa)](#) | ![AslDeveloper07's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslDeveloper07&show_icons=true&icon_color=00ffff&bg_color=323232&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15) |
+| ------------- | ------------- |
 
----
 
-## 📈 GITHUB STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AslDeveloper07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslDeveloper07&layout=compact&theme=tokyonight&bg_color=0D1117" width="48%"/>
-</p>
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qurbonoff11)](#) -->
 
----
 
-## 🌐 LIVE PROJECTS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslDeveloper07&size_weight=0.5&count_weight=0.5&icon_color=00ffff&bg_color=323232&text_color=fff&title_color=00ffff&border_color=00ffff&border_radius=15)
+### GitHub Profile Insights
 
-| 🚀 Project | 💻 Technologies | 🔗 Demo |
-|-----------|----------------|---------|
-| **SignIn System** | HTML, CSS, JS | [🔗 View](https://github.com/Iqboljon-Developer07/SignIn) |
-| **3D Animated Card** | HTML, CSS, GSAP | [🔗 View](https://github.com/Iqboljon-Developer07/Card-3D) |
-| **GSAP Animations** | React, GSAP | [🔗 View](https://github.com/Iqboljon-Developer07/GSAP-Animate) |
-| **UzumMarket Clone** | Tailwind, SwiperJS | [🔗 View](https://github.com/Iqboljon-Developer07/UzumMarket) |
+<!-- [![AslDeveloper07's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qurbonoff11&bg_color=323232&title_color=00ffff)](https://github.com/AslDeveloper07) -->
 
----
-
-## 🖼️ PROJECT GALLERY
-
-<p align="center">
-  <img src="https://github.com/Iqboljon-Developer07/Card-3D/blob/main/card-preview.gif?raw=true" width="400"/>
-  <img src="https://github.com/Iqboljon-Developer07/SignIn/blob/main/demo.png?raw=true" width="400"/>
-</p>
-
----
-
-## 🚀 ACTIVITIES
-
-![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=AslDeveloper07&theme=tokyo-night&hide_border=false&radius=12)
-
----
-
-## 🧬 LEARNING & INNOVATION
-
-- 📦 Component-based architectures (React, Vite)
-- 🧠 Framer Motion & GSAP for futuristic UI
-- 📲 Responsive design for foldable screens
-- 🧠 Building with performance-first mindset
-- 🪐 Creative CSS & pixel-perfect layouts
-
----
-
-## 🎯 GOALS OF THE YEAR 5000
-
-- [x] Build blazing-fast frontend apps ⚡
-- [x] Master animation techniques 🎞️
-- [ ] Launch personal design system 💠
-- [ ] Open-source my futuristic components 🚀
-
----
-
-## 📡 LET’S CONNECT
-
-<p align="center">
-  <a href="mailto:asl.developer07@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/AslDeveloper07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/AslDeveloper07"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 🙏 THANK YOU
-
-> ⭐ Berish – bu kichik harakat, lekin ulkan motivatsiya.
-> Mening ishlarim sizga foydali bo‘lsa, like bosing va fikr bildiring.
-
----
-
-<!-- END OF 5000-YEAR FUTURISTIC PROFILE README -->
-
+[![Asilbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AslDeveloper07&bg_color=323232&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
